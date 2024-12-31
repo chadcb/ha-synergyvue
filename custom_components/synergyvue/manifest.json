@@ -1,0 +1,8 @@
+{
+  "domain": "synergyvue",
+  "name": "StudentVUE portal for access to grades, assignments, and communication with teachers",
+  "documentation": "https://github.com/chadcb/ha-synergyvue",
+  "requirements": ["synergyvue==0.0.3"],
+  "dependencies": [],
+  "codeowners": ["@chadcb"]
+}
